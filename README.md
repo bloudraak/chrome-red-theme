@@ -6,7 +6,7 @@ I often run different versions of Chrome and needed a theme to visually differen
 
 So the goal here was to create a theme that
 
-* has **no noise**, so there’s no
+* has **no noise**, so there’s no skeuomorphism, gradients or pattern backgrounds
 * has **no distractions**, so there is no images of unicorns, fluffy cats or the brats of my nephew. 
 * is **visually discernible** so at a glance I have context as to which version of Chrome I’m working with.
 
